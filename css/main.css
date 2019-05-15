@@ -105,7 +105,12 @@ a.more-link,
 .social-link,
 .toggle h4:before  {
     font-family:fontello; font-style:normal; font-weight:400; speak:none; display:inline-block; text-decoration:inherit; text-align:center; font-variant:normal; text-transform:none;
-    }
+	}
+	
+.social-icon a:hover {
+	 
+		  }
+  	
 	
 /* PE 7S ICONS */
 .mask,
